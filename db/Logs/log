@@ -1,0 +1,48 @@
+dez. 11, 2024 6:46:08 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group CONVIDADO started on 230.0.0.1:5000
+dez. 11, 2024 6:46:08 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group BAIXO started on 230.0.0.1:5001
+dez. 11, 2024 6:46:08 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group MEDIO started on 230.0.0.1:5002
+dez. 11, 2024 6:46:08 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group ALTO started on 230.0.0.1:5003
+dez. 11, 2024 6:46:08 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Server started and listening on port 7
+dez. 11, 2024 6:46:11 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Creating new TCP Connection
+dez. 11, 2024 6:47:23 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: xicko Joined CONVIDADO
+dez. 11, 2024 4:58:03 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+WARNING: marco tried to request an alert without perms
+dez. 11, 2024 4:58:19 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+WARNING: marco tried to request an alert without perms
+dez. 11, 2024 4:58:23 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: marco requested res
+dez. 11, 2024 4:58:36 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+WARNING: marco tried to accept is own request
+dez. 11, 2024 4:58:44 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: xicko accepted res
+dez. 11, 2024 4:59:13 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: New User Registered: zezao
+dez. 11, 2024 4:59:19 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: zezao Joined CONVIDADO
+dez. 13, 2024 8:38:41 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group CONVIDADO started on 230.0.0.1:5000
+dez. 13, 2024 8:38:42 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group BAIXO started on 230.0.0.1:5001
+dez. 13, 2024 8:38:42 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group MEDIO started on 230.0.0.1:5002
+dez. 13, 2024 8:38:42 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Chat group ALTO started on 230.0.0.1:5003
+dez. 13, 2024 8:38:42 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Server started and listening on port 7
+dez. 13, 2024 8:38:51 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Creating new TCP Connection
+dez. 13, 2024 8:38:52 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: Creating new TCP Connection
+dez. 13, 2024 8:39:12 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: baixo Joined CONVIDADO
+dez. 13, 2024 8:40:28 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: convidado Joined CONVIDADO
+dez. 13, 2024 8:41:23 DA TARDE dev.superman.server.loggerThread.LoggerThread run
+INFO: baixo Joined CONVIDADO
